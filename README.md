@@ -6,7 +6,7 @@ This software is a multi-functional gadget written in easy language. It original
 
 II. Functional characteristics
 
-File download function: When the user enters the correct specific key "Silver Wolf is the cutest in the world", the software will prompt the user to enter the file download link, and then download the file from the link and save it to the root directory of the D disk.
+File download function: When the user enters the correct specific key "Silver Wolf is the cutest in the world"(Postscript: I'm just crazy here, but I'm too lazy to delete it), the software will prompt the user to enter the file download link, and then download the file from the link and save it to the root directory of the D disk.
 
 Wallpaper replacement function: Regardless of whether the key entered by the user is correct or not, the software will try to download the picture from the preset picture bed, save it to the root directory of the D disk, and then automatically set the picture as the desktop wallpaper.
 
@@ -51,7 +51,7 @@ Key input: When entering the wrong key (except for "codm Silver Wolf", "E" and "
 一、简介
 本软件是一个具备多功能的小工具，以易语言编写。它最初以 “VAPE V4” 为幌子，实则有两大主要功能：一是支持用户输入下载链接进行文件下载；二是在用户输入任意密钥后，可从指定图床下载图片并将其设置为桌面壁纸。此外，针对特定的密钥输入，软件还会打开相应的网页。
 二、功能特性
-文件下载功能：当用户输入正确的特定密钥 “银狼天下第一可爱” 后，软件会提示用户输入文件下载链接，随后从该链接下载文件并保存到 D 盘根目录。
+文件下载功能：当用户输入正确的特定密钥 “银狼天下第一可爱” （后记：我当时真的是疯了，居然会把这个写进去，但我懒得删除它）后，软件会提示用户输入文件下载链接，随后从该链接下载文件并保存到 D 盘根目录。
 壁纸更换功能：无论用户输入的密钥是否正确，软件都会尝试从预设的图床下载图片，并将其保存到 D 盘根目录，然后自动将该图片设置为桌面壁纸。
 特定密钥网页跳转功能：当用户输入特定密钥 “codm 银狼”“E”“VAPE” 时，软件会分别打开对应的 B 站主页、易语言官网和 vape.gg 网站。
 三、使用步骤
